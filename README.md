@@ -1,5 +1,6 @@
 https://pronist.dev/120
 https://mingrammer.com/building-blockchain-in-go-part-1/
+https://github.com/Jeiwan/blockchain_go
 를 보고 공부하는 중입니다.
 
 # 메인넷 만들기
